@@ -1,20 +1,20 @@
 exports.allmenu = (prefix, jams, bulan, hari, tanggal, timeWib, timeWita, timeWit) => {
 	return`Jangan Lupa Donasi
 
-╭─ ✾「 𝐓𝐎 𝐃𝐀𝐘 」✾
+╭─ ✾「 𝐓𝐎𝐃𝐀𝐘🌺 」✾
 │➸ 𝙐𝙘𝙖𝙥𝙖𝙣 : ${jams}
 │➸ 𝘽𝙪𝙡𝙖𝙣 : ${bulan}
 │➸ 𝙃𝙖𝙧𝙞 : ${hari}
 │➸ 𝙏𝙂𝙇 : ${tanggal}
 ╰─ ✾
 
-╭─ ✾「 𝐈𝐍𝐃𝐎𝐍𝐄𝐒𝐈𝐀 𝐓𝐈𝐌𝐄 」✾
+╭─ ✾「 𝐈𝐍𝐃𝐎𝐍𝐄𝐒𝐈𝐀 𝐓𝐈𝐌𝐄🇮🇩 」✾
 │➸ 𝙒𝙞𝙗 : ${timeWib}
 │➸ 𝙒𝙞𝙩𝙖 : ${timeWita}
 │➸ 𝙒𝙞𝙩 : ${timeWit}  
 ╰─ ✾
 
-╭─ ✾「 𝐎𝐓𝐇𝐄𝐑 𝐌𝐄𝐍𝐔 」✾
+╭─ ✾「 𝐎𝐓𝐇𝐄𝐑 𝐌𝐄𝐍𝐔📋 」✾
 │➸ ${prefix}report
 │➸ ${prefix}rules
 │➸ ${prefix}ping / speed
@@ -25,7 +25,7 @@ exports.allmenu = (prefix, jams, bulan, hari, tanggal, timeWib, timeWita, timeWi
 │➸ ${prefix}leaderboard
 ╰─ ✾
 
-╭─ ✾「 𝐎𝐖𝐍𝐄𝐑 𝐌𝐄𝐍𝐔 」✾
+╭─ ✾「 𝐎𝐖𝐍𝐄𝐑 𝐌𝐄𝐍𝐔👤 」✾
 │➸ ${prefix}owner
 │➸ ${prefix}bc *Teks*
 │➸ ${prefix}setbiobot *teks*
@@ -37,7 +37,7 @@ exports.allmenu = (prefix, jams, bulan, hari, tanggal, timeWib, timeWita, timeWi
 │➸ ${prefix}delprem
 ╰─ ✾
 
-╭─ ✾「 𝐖𝐀𝐑 𝐌𝐄𝐍𝐔 」✾
+╭─ ✾「 𝐖𝐀𝐑 𝐌𝐄𝐍𝐔🤡 」✾
 │➸ ${prefix}virtex1
 │➸ ${prefix}virtex2
 │➸ ${prefix}virtex3
@@ -51,7 +51,7 @@ exports.allmenu = (prefix, jams, bulan, hari, tanggal, timeWib, timeWita, timeWi
 │➸ ${prefix}ngazab
 ╰─ ✾
 
-╭─ ✾「 𝐆𝐑𝐔𝐏 𝐌𝐄𝐍𝐔 」✾
+╭─ ✾「 𝐆𝐑𝐔𝐏 𝐌𝐄𝐍𝐔🏛️ 」✾
 │➸ ${prefix}antilink *on / off*
 │➸ ${prefix}antivirtex *on / off*
 │➸ ${prefix}welcome *on / off*
@@ -72,7 +72,7 @@ exports.allmenu = (prefix, jams, bulan, hari, tanggal, timeWib, timeWita, timeWi
 │➸ ${prefix}level
 ╰─ ✾
 
-╭─ ✾「 𝐌𝐎𝐕𝐈𝐄&𝐒𝐓𝐎𝐑𝐘 𝐌𝐄𝐍𝐔 」✾
+╭─ ✾「 𝐌𝐎𝐕𝐈𝐄&𝐒𝐓𝐎𝐑𝐘 𝐌𝐄𝐍𝐔📺 」✾
 │➸ ${prefix}drakorongoing
 │➸ ${prefix}lk21 *search*
 │➸ ${prefix}ceritahoror
@@ -81,7 +81,7 @@ exports.allmenu = (prefix, jams, bulan, hari, tanggal, timeWib, timeWita, timeWi
 │➸ ${prefix}wattpadsearch *search*
 ╰─ ✾
 
-╭─ ✾「 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐌𝐄𝐍𝐔 」✾
+╭─ ✾「 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐌𝐄𝐍𝐔📥 」✾
 │➸ ${prefix}ytmp3 *Link*
 │➸ ${prefix}ytmp4 *Link*
 │➸ ${prefix}playstore *search*
@@ -98,7 +98,7 @@ exports.allmenu = (prefix, jams, bulan, hari, tanggal, timeWib, timeWita, timeWi
 │➸ ${prefix}jooxplay *teks*
 ╰─ ✾
 
-╭─ ✾「 𝐆𝐀𝐌𝐄 𝐌𝐄𝐍𝐔 」✾
+╭─ ✾「 𝐆𝐀𝐌𝐄 𝐌𝐄𝐍𝐔🎮 」✾
 │➸ ${prefix}family100
 │➸ ${prefix}tebakanime
 │➸ ${prefix}tebakgambar
@@ -114,14 +114,14 @@ exports.allmenu = (prefix, jams, bulan, hari, tanggal, timeWib, timeWita, timeWi
 │➸ ${prefix}tictactoe
 ╰─ ✾
 
-╭─ ✾「 𝐒𝐓𝐀𝐋𝐊 𝐌𝐄𝐍𝐔 」✾
+╭─ ✾「 𝐒𝐓𝐀𝐋𝐊 𝐌𝐄𝐍𝐔🕵️ 」✾
 │➸ ${prefix}stalkgithub
 │➸ ${prefix}stalktiktok
 │➸ ${prefix}stalktwitter
 │➸ ${prefix}ytstalk
 ╰─ ✾
 
-╭─ ✾「 𝐄𝐏𝐇𝐎𝐓𝐎 𝟑𝟔𝟎 𝐌𝐄𝐍𝐔 」✾
+╭─ ✾「 𝐄𝐏𝐇𝐎𝐓𝐎 𝟑𝟔𝟎 𝐌𝐄𝐍𝐔🎢 」✾
 │➸ ${prefix}wetglass *teks*
 │➸ ${prefix}multicolor3d *teks*
 │➸ ${prefix}watercolor *teks*
@@ -153,7 +153,7 @@ exports.allmenu = (prefix, jams, bulan, hari, tanggal, timeWib, timeWita, timeWi
 │➸ ${prefix}silverplaybutton *teks*
 ╰─ ✾
 
-╭─ ✾「 𝐏𝐎𝐓𝐎𝐎𝐗𝐘 𝐌𝐄𝐍𝐔 」✾
+╭─ ✾「 𝐏𝐎𝐓𝐎𝐎𝐗𝐘 𝐌𝐄𝐍𝐔🗻 」✾
 │➸ ${prefix}shadow *teks*
 │➸ ${prefix}cup *teks*
 │➸ ${prefix}cup1 *teks*
@@ -182,7 +182,7 @@ exports.allmenu = (prefix, jams, bulan, hari, tanggal, timeWib, timeWita, timeWi
 │➸ ${prefix}battlefield4 *text1 text2*
 ╰─ ✾
  
-╭─ ✾「 𝐓𝐄𝐗𝐓𝐏𝐑𝐎𝐌𝐄 𝐌𝐄𝐍𝐔」✾
+╭─ ✾「 𝐓𝐄𝐗𝐓𝐏𝐑𝐎𝐌𝐄 𝐌𝐄𝐍𝐔🌉 」✾
 │➸ ${prefix}blackpink *teks*
 │➸ ${prefix}neon *teks*
 │➸ ${prefix}greenneon *teks*
@@ -214,7 +214,7 @@ exports.allmenu = (prefix, jams, bulan, hari, tanggal, timeWib, timeWita, timeWi
 │➸ ${prefix}horrorblood *teks*
 ╰─ ✾
 
-╭─ ✾「 𝐀𝐍𝐈𝐌𝐄 𝐌𝐄𝐍𝐔 」✾
+╭─ ✾「 𝐀𝐍𝐈𝐌𝐄 𝐌𝐄𝐍𝐔⛩️ 」✾
 │➸ ${prefix}manga *search*
 │➸ ${prefix}anime *search*
 │➸ ${prefix}character *search*
@@ -228,14 +228,14 @@ exports.allmenu = (prefix, jams, bulan, hari, tanggal, timeWib, timeWita, timeWi
 │➸ ${prefix}nekopoisearch *search*
 ╰─ ✾
 
-╭─ ✾「 𝐒𝐓𝐈𝐂𝐊𝐄𝐑 𝐌𝐄𝐍𝐔 」✾
+╭─ ✾「 𝐒𝐓𝐈𝐂𝐊𝐄𝐑 𝐌𝐄𝐍𝐔📑 」✾
 │➸ ${prefix}sticker *reply / cap*
 │➸ ${prefix}toimg *reply*
 │➸ ${prefix}ttp
 │➸ ${prefix}attp
 ╰─ ✾
 
-╭─ ✾「 𝐒𝐓𝐎𝐑𝐄 𝐌𝐄𝐍𝐔 」✾
+╭─ ✾「 𝐒𝐓𝐎𝐑𝐄 𝐌𝐄𝐍𝐔🌬️ 」✾
 │➸ ${prefix}allpayment
 │➸ ${prefix}freefire
 │➸ ${prefix}mobilelegend
@@ -247,7 +247,7 @@ exports.allmenu = (prefix, jams, bulan, hari, tanggal, timeWib, timeWita, timeWi
 │➸ ${prefix}sewabot
 ╰─ ✾
 
-╭─ ✾「 𝐈𝐒𝐋𝐀𝐌𝐈 𝐌𝐄𝐍𝐔 」✾
+╭─ ✾「 𝐈𝐒𝐋𝐀𝐌𝐈 𝐌𝐄𝐍𝐔🕋 」✾
 │➸ ${prefix}alquran
 │➸ ${prefix}alquranaudio
 │➸ ${prefix}kisahnabi
@@ -256,7 +256,7 @@ exports.allmenu = (prefix, jams, bulan, hari, tanggal, timeWib, timeWita, timeWi
 │➸ ${prefix}listsurah
 ╰─ ✾
 
-╭─ ✾「 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐒𝐈 𝐌𝐄𝐍𝐔 」✾
+╭─ ✾「 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐒𝐈 𝐌𝐄𝐍𝐔ℹ️ 」✾
 │➸ ${prefix}hoax
 │➸ ${prefix}indbeasiswa
 │➸ ${prefix}jadwalbola
@@ -274,7 +274,7 @@ exports.allmenu = (prefix, jams, bulan, hari, tanggal, timeWib, timeWita, timeWi
 │➸ ${prefix}heroml
 ╰─ ✾
 
-╭─ ✾「 𝐅𝐔𝐍 𝐌𝐄𝐍𝐔 」✾
+╭─ ✾「 𝐅𝐔𝐍 𝐌𝐄𝐍𝐔🥀 」✾
 │➸ ${prefix}suit
 │➸ ${prefix}beban
 │➸ ${prefix}babi
@@ -295,7 +295,7 @@ exports.allmenu = (prefix, jams, bulan, hari, tanggal, timeWib, timeWita, timeWi
 │➸ ${prefix}truth
 ╰─ ✾
 
-╭─ ✾「 𝐀𝐔𝐃𝐈𝐎  𝐌𝐄𝐍𝐔 」✾
+╭─ ✾「 𝐀𝐔𝐃𝐈𝐎  𝐌𝐄𝐍𝐔🔊 」✾
 │➸ ${prefix}bass *reply*
 │➸ ${prefix}slow *reply*
 │➸ ${prefix}fast *reply*
@@ -303,7 +303,7 @@ exports.allmenu = (prefix, jams, bulan, hari, tanggal, timeWib, timeWita, timeWi
 │➸ ${prefix}reverse *reply video*
 ╰─ ✾
 
-╭─ ✾「 𝐍𝐄𝐊𝐎𝐏𝐎𝐈 𝐌𝐄𝐍𝐔 」✾
+╭─ ✾「 𝐍𝐄𝐊𝐎𝐏𝐎𝐈 𝐌𝐄𝐍𝐔🔞 」✾
 │➸ ${prefix}nekopoi1
 │➸ ${prefix}nekopoi2
 │➸ ${prefix}nekopoi3
@@ -316,7 +316,7 @@ exports.allmenu = (prefix, jams, bulan, hari, tanggal, timeWib, timeWita, timeWi
 │➸ ${prefix}nekopoi9
 ╰─ ✾
 
-╭─ ✾「 𝐍𝐒𝐅𝐖 𝐌𝐄𝐍𝐔 」✾
+╭─ ✾「 𝐍𝐒𝐅𝐖 𝐌𝐄𝐍𝐔🔞 」✾
 │➸ ${prefix}nsfw 1/0
 │➸ ${prefix}neko
 │➸ ${prefix}yuri
@@ -337,7 +337,7 @@ exports.allmenu = (prefix, jams, bulan, hari, tanggal, timeWib, timeWita, timeWi
 │➸ ${prefix}wallpaper
 ╰─ ✾
 
-╭─ ✾「 𝐒𝐎𝐔𝐍𝐃 𝐌𝐄𝐍𝐔 」✾
+╭─ ✾「 𝐒𝐎𝐔𝐍𝐃 𝐌𝐄𝐍𝐔🎶 」✾
 │➸ ${prefix}sound1
 │➸ ${prefix}sound2
 │➸ ${prefix}sound3
@@ -358,7 +358,7 @@ exports.allmenu = (prefix, jams, bulan, hari, tanggal, timeWib, timeWita, timeWi
 │➸ ${prefix}sound18
 ╰─ ✾
 
-╭─ ✾「 𝐀𝐒𝐔𝐏𝐀𝐍 𝐌𝐄𝐍𝐔 」✾
+╭─ ✾「 𝐀𝐒𝐔𝐏𝐀𝐍 𝐌𝐄𝐍𝐔💌 」✾
 │➸ ${prefix}asupancecan
 │➸ ${prefix}asupanhijaber
 │➸ ${prefix}asupansantuy
@@ -368,7 +368,7 @@ exports.allmenu = (prefix, jams, bulan, hari, tanggal, timeWib, timeWita, timeWi
 │➸ ${prefix}asupanrika
 ╰─ ✾
 
-╭─ ✾「 𝐂𝐄𝐂𝐀𝐍 𝐌𝐄𝐍𝐔 」✾
+╭─ ✾「 𝐂𝐄𝐂𝐀𝐍 𝐌𝐄𝐍𝐔🙆🏻‍♀️ 」✾
 │➸ ${prefix}cecanvietnam
 │➸ ${prefix}cecanmalaysia
 │➸ ${prefix}cecankorea
