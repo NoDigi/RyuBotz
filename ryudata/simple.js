@@ -1,6 +1,6 @@
 //MENU OWNER
 exports.gamemenu = (prefix) => {
-	return`╭─ ✾「 𝐆𝐀𝐌𝐄 𝐌𝐄𝐍𝐔 」✾
+	return`╭─ ✾「 𝐆𝐀𝐌𝐄 𝐌𝐄𝐍𝐔🎮 」✾
 │➸ ${prefix}family100
 │➸ ${prefix}tebakanime
 │➸ ${prefix}tebakgambar
@@ -19,7 +19,7 @@ exports.gamemenu = (prefix) => {
 }
 
 exports.stalkmenu = (prefix) => {
-	return`╭─ ✾「 𝐒𝐓𝐀𝐋𝐊 𝐌𝐄𝐍𝐔 」✾
+	return`╭─ ✾「 𝐒𝐓𝐀𝐋𝐊 𝐌𝐄𝐍𝐔🕵️ 」✾
 │➸ ${prefix}stalkgithub
 │➸ ${prefix}stalktiktok
 │➸ ${prefix}stalktwitter
@@ -29,7 +29,7 @@ exports.stalkmenu = (prefix) => {
 }
 
 exports.moviemenu = (prefix) => {
-	return`╭─ ✾「 𝗠𝗢𝗩𝗜𝗘&𝗦𝗧𝗢𝗥𝗬 𝗠𝗘𝗡𝗨 」✾
+	return`╭─ ✾「 𝗠𝗢𝗩𝗜𝗘&𝗦𝗧𝗢𝗥𝗬 𝗠𝗘𝗡𝗨💼 」✾
 │➸ ${prefix}drakorongoing
 │➸ ${prefix}lk21 *search*
 │➸ ${prefix}ceritahoror
@@ -41,7 +41,7 @@ exports.moviemenu = (prefix) => {
 }
 
 exports.warmenu = (prefix) => {
-	return`╭─ ✾「 𝐖𝐀𝐑 𝐌𝐄𝐍𝐔 」✾
+	return`╭─ ✾「 𝐖𝐀𝐑 𝐌𝐄𝐍𝐔🤡 」✾
 │➸ ${prefix}virtex1
 │➸ ${prefix}virtex2
 │➸ ${prefix}virtex3
@@ -58,7 +58,7 @@ exports.warmenu = (prefix) => {
 }
 
 exports.textpromemenu = (prefix) => {
-	return`╭─ ✾「 𝐓𝐄𝐗𝐓𝐏𝐑𝐎𝐌𝐄 𝐌𝐄𝐍𝐔」✾
+	return`╭─ ✾「 𝐓𝐄𝐗𝐓𝐏𝐑𝐎𝐌𝐄 𝐌𝐄𝐍𝐔🗿 」✾
 │➸ ${prefix}blackpink *teks*
 │➸ ${prefix}neon *teks*
 │➸ ${prefix}greenneon *teks*
@@ -93,7 +93,7 @@ exports.textpromemenu = (prefix) => {
 }
 
 exports.nsfwmenu = (prefix) => {
-	return`╭─ ✾「 𝐍𝐒𝐅𝐖 𝐌𝐄𝐍𝐔 」✾
+	return`╭─ ✾「 𝐍𝐒𝐅𝐖 𝐌𝐄𝐍𝐔🔞 」✾
 │➸ ${prefix}nsfw 1/0
 │➸ ${prefix}neko
 │➸ ${prefix}yuri
@@ -117,7 +117,7 @@ exports.nsfwmenu = (prefix) => {
 }
 
 exports.groupmenu = (prefix) => {
-	return`╭─ ✾「 𝐆𝐑𝐔𝐏 𝐌𝐄𝐍𝐔 」✾
+	return`╭─ ✾「 𝐆𝐑𝐔𝐏 𝐌𝐄𝐍𝐔🏛️ 」✾
 │➸ ${prefix}antilink *on / off*
 │➸ ${prefix}antivirtex *on / off*
 │➸ ${prefix}welcome *on / off*
@@ -139,7 +139,7 @@ exports.groupmenu = (prefix) => {
 }
 
 exports.downloadmenu = (prefix) => {
-	return`╭─ ✾「 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐌𝐄𝐍𝐔 」✾
+	return`╭─ ✾「 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐌𝐄𝐍𝐔📥 」✾
 │➸ ${prefix}ytmp3 *Link*
 │➸ ${prefix}ytmp4 *Link*
 │➸ ${prefix}playstore *search*
@@ -159,7 +159,7 @@ exports.downloadmenu = (prefix) => {
 }
 
 exports.asupanmenu = (prefix) => {
-	return`╭─ ✾「 𝐀𝐒𝐔𝐏𝐀𝐍 𝐌𝐄𝐍𝐔 」✾
+	return`╭─ ✾「 𝐀𝐒𝐔𝐏𝐀𝐍 𝐌𝐄𝐍𝐔✨ 」✾
 │➸ ${prefix}asupancecan
 │➸ ${prefix}asupanhijaber
 │➸ ${prefix}asupansantuy
@@ -172,7 +172,7 @@ exports.asupanmenu = (prefix) => {
 }
 
 exports.cecanmenu = (prefix) => {
-	return`╭─ ✾「 𝐂𝐄𝐂𝐀𝐍 𝐌𝐄𝐍𝐔 」✾
+	return`╭─ ✾「 𝐂𝐄𝐂𝐀𝐍 𝐌𝐄𝐍𝐔🙆🏻‍♀️ 」✾
 │➸ ${prefix}cecanvietnam
 │➸ ${prefix}cecanmalaysia
 │➸ ${prefix}cecankorea
@@ -185,7 +185,7 @@ exports.cecanmenu = (prefix) => {
 }
 
 exports.stickermenu = (prefix) => {
-	return`╭─ ✾「 𝐒𝐓𝐈𝐂𝐊𝐄𝐑 𝐌𝐄𝐍𝐔 」✾
+	return`╭─ ✾「 𝐒𝐓𝐈𝐂𝐊𝐄𝐑 𝐌𝐄𝐍𝐔📑 」✾
 │➸ ${prefix}sticker *reply / cap*
 │➸ ${prefix}toimg *reply*
 │➸ ${prefix}ttp
@@ -195,7 +195,7 @@ exports.stickermenu = (prefix) => {
 }
 
 exports.islamimenu = (prefix) => {
-	return`╭─ ✾「 𝐈𝐒𝐋𝐀𝐌𝐈 𝐌𝐄𝐍𝐔 」✾
+	return`╭─ ✾「 𝐈𝐒𝐋𝐀𝐌𝐈 𝐌𝐄𝐍𝐔🕋 」✾
 │➸ ${prefix}alquran
 │➸ ${prefix}alquranaudio
 │➸ ${prefix}kisahnabi
@@ -207,7 +207,7 @@ exports.islamimenu = (prefix) => {
 }
 
 exports.ownermenu = (prefix) => {
-	return`╭─ ✾「 𝐎𝐖𝐍𝐄𝐑 𝐌𝐄𝐍𝐔 」✾
+	return`╭─ ✾「 𝐎𝐖𝐍𝐄𝐑 𝐌𝐄𝐍𝐔👤 」✾
 │➸ ${prefix}owner
 │➸ ${prefix}bc *Teks*
 │➸ ${prefix}setbiobot *teks*
@@ -222,7 +222,7 @@ exports.ownermenu = (prefix) => {
 }
 
 exports.funmenu = (prefix) => {
-	return`╭─ ✾「 𝐅𝐔𝐍 𝐌𝐄𝐍𝐔 」✾
+	return`╭─ ✾「 𝐅𝐔𝐍 𝐌𝐄𝐍𝐔🎆 」✾
 │➸ ${prefix}suit
 │➸ ${prefix}beban
 │➸ ${prefix}babi
@@ -246,7 +246,7 @@ exports.funmenu = (prefix) => {
 }
 
 exports.informasimenu = (prefix) => {
-	return`╭─ ✾「 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐒𝐈 𝐌𝐄𝐍𝐔 」✾
+	return`╭─ ✾「 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐒𝐈 𝐌𝐄𝐍𝐔⚙️ 」✾
 │➸ ${prefix}hoax
 │➸ ${prefix}indbeasiswa
 │➸ ${prefix}jadwalbola
@@ -267,7 +267,7 @@ exports.informasimenu = (prefix) => {
 }
 
 exports.nekopoimenu = (prefix) => {
-	return`╭─ ✾「 𝐍𝐄𝐊𝐎𝐏𝐎𝐈 𝐌𝐄𝐍𝐔 」✾
+	return`╭─ ✾「 𝐍𝐄𝐊𝐎𝐏𝐎𝐈 𝐌𝐄𝐍𝐔🔞 」✾
 │➸ ${prefix}nekopoi1
 │➸ ${prefix}nekopoi2
 │➸ ${prefix}nekopoi3
@@ -283,7 +283,7 @@ exports.nekopoimenu = (prefix) => {
 }
 
 exports.audiomenu = (prefix) => {
-	return`╭─ ✾「 𝐀𝐔𝐃𝐈𝐎  𝐌𝐄𝐍𝐔 」✾
+	return`╭─ ✾「 𝐀𝐔𝐃𝐈𝐎  𝐌𝐄𝐍𝐔🔊 」✾
 │➸ ${prefix}bass *reply*
 │➸ ${prefix}slow *reply*
 │➸ ${prefix}fast *reply*
@@ -318,7 +318,7 @@ exports.soundmenu = (prefix) => {
 }
 
 exports.animemenu = (prefix) => {
-	return`╭─ ✾「 𝐀𝐍𝐈𝐌𝐄 𝐌𝐄𝐍𝐔 」✾
+	return`╭─ ✾「 𝐀𝐍𝐈𝐌𝐄 𝐌𝐄𝐍𝐔⛩️ 」✾
 │➸ ${prefix}manga *search*
 │➸ ${prefix}anime *search*
 │➸ ${prefix}character *search*
@@ -335,7 +335,7 @@ exports.animemenu = (prefix) => {
 }
 
 exports.potooxymenu = (prefix) => {
-	return`╭─ ✾「 𝐏𝐎𝐓𝐎𝐎𝐗𝐘 𝐌𝐄𝐍𝐔 」✾
+	return`╭─ ✾「 𝐏𝐎𝐓𝐎𝐎𝐗𝐘 𝐌𝐄𝐍𝐔🎢 」✾
 │➸ ${prefix}shadow *teks*
 │➸ ${prefix}cup *teks*
 │➸ ${prefix}cup1 *teks*
@@ -367,7 +367,7 @@ exports.potooxymenu = (prefix) => {
 }
 
 exports.ephotomenu = (prefix) => {
-	return`╭─ ✾「 𝐄𝐏𝐇𝐎𝐓𝐎 𝟑𝟔𝟎 𝐌𝐄𝐍𝐔 」✾
+	return`╭─ ✾「 𝐄𝐏𝐇𝐎𝐓𝐎 𝟑𝟔𝟎 𝐌𝐄𝐍𝐔🗻 」✾
 │➸ ${prefix}wetglass *teks*
 │➸ ${prefix}multicolor3d *teks*
 │➸ ${prefix}watercolor *teks*
